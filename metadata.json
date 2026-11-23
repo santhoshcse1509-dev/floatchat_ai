@@ -1,0 +1,10 @@
+{
+  "name": "FloatChat",
+  "description": "Explore ocean measurements collected by ARGO floats and ask broader oceanography, climate, and science questions with a conversational Gemini LLM assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
